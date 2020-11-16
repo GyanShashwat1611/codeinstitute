@@ -1,7 +1,6 @@
 absl-py==0.9.0
 alabaster==0.7.12
 argh==0.26.2
-argon2-cffi @ file:///D:/bld/argon2-cffi_1602546783264/work
 asgiref==3.2.10
 astroid==2.3.3
 astunparse==1.6.3
@@ -48,7 +47,6 @@ importlib-metadata==1.7.0
 imutils==0.5.3
 intervaltree==3.0.2
 ipykernel==5.3.0
-ipython @ file:///C:/ci/ipython_1592330399805/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
@@ -56,17 +54,14 @@ itsdangerous==1.1.0
 jedi==0.15.2
 Jinja2==2.11.2
 joblib==0.16.0
-json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1600692310011/work
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.3
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.2.9
-jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1593951277307/work
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
-keyring @ file:///C:/ci/keyring_1593109797081/work
 kiwisolver==1.2.0
 lazy-object-proxy==1.5.0
 Markdown==3.2.2
@@ -74,13 +69,9 @@ MarkupSafe==1.1.1
 matplotlib==3.2.2
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 nbconvert==5.6.1
 nbformat==5.0.7
 networkx==2.4
-notebook @ file:///D:/bld/notebook_1605103896473/work
 numpy==1.19.0
 numpydoc==1.0.0
 oauthlib==3.1.0
@@ -97,7 +88,6 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.1.2
 pluggy==0.13.1
-prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 psutil==5.7.0
@@ -105,11 +95,9 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.5.0
 pycparser==2.20
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyflakes==2.1.1
 Pygments==2.6.1
 pylint==2.4.4
-PyNaCl @ file:///C:/ci/pynacl_1593105438052/work
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
@@ -121,21 +109,16 @@ pytz==2020.1
 PyWavelets==1.1.1
 pywin32==227
 pywin32-ctypes==0.2.0
-pywinpty @ file:///D:/bld/pywinpty_1602377668868/work
 PyYAML==5.3.1
 pyzmq==19.0.1
 QDarkStyle==2.8.1
 QtAwesome==0.7.2
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
 QtPy==1.9.0
 requests==2.24.0
 requests-oauthlib==1.3.0
 rope==0.17.0
 rsa==4.6
-Rtree==0.9.4
 scikit-image==0.17.2
-scikit-learn @ file:///C:/ci/scikit-learn_1592853528256/work
-scipy @ file:///C:/bld/scipy_1604304921754/work
 seaborn==0.11.0
 Send2Trash==1.5.0
 Shapely==1.7.0
@@ -143,7 +126,6 @@ six==1.15.0
 sklearn==0.0
 snowballstemmer==2.0.0
 sortedcontainers==2.2.2
-Sphinx @ file:///tmp/build/80754af9/sphinx_1592842202926/work
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==1.0.3
@@ -158,12 +140,8 @@ tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
-terminado @ file:///D:/bld/terminado_1605117196473/work
 testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tifffile==2020.6.3
-torch==1.5.1
-torchvision==0.6.0+cu101
 tornado==6.0.4
 traitlets==4.3.3
 typed-ast==1.4.1
@@ -177,5 +155,4 @@ widgetsnbextension==3.5.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.12.1
-yapf @ file:///tmp/build/80754af9/yapf_1592847929485/work
 zipp==3.1.0
